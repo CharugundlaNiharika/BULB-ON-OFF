@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(white,black,grey);
+}
+img{
+    height:350px;
+    width: 250px;
+    margin-top: 10;
+    margin-left: 585px;
+}
+
+.btn{
+    display: flex;
+    margin-bottom: 710px;
+    height: 30px;
+    width: 40px;
+}
